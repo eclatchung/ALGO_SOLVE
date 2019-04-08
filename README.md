@@ -5,7 +5,6 @@
 ### 1.baekjoon<br/>
 <br/>
 BJ_date_ProblemNum.c/c++/java/js<br/>
-<br/>
-### 2.codeground<br/><br/>
+1.codeground<br/><br/>
 CD_date_ProbleNum.c/c++/java/js<br/>
 
