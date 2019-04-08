@@ -2,7 +2,7 @@
 
 ## Practice Algorithms<br/>
 
-### 1.baekjoon<br/>
+1.baekjoon<br/>
 <br/>
 BJ_date_ProblemNum.c/c++/java/js<br/>
 1.codeground<br/><br/>
