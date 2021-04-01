@@ -1,13 +1,10 @@
 # TwoSum
 - 목차
-
-[내코드](./TwoSum.js)
-
-[내가 푼 방법](내가-푼-방법-Brute-Force)
-
-[그외 방법](그외-방법)
-	[Two-pass Hash Table](Two-pass-Hash-Table)
-	[One-pass Hash Table](One-pass-Hash-Table_)
+- [내코드](./TwoSum.js)
+- [내가 푼 방법](내가-푼-방법-Brute-Force)
+- [그외 방법](그외-방법)
+	- [Two-pass Hash Table](Two-pass-Hash-Table)
+	- [One-pass Hash Table](One-pass-Hash-Table_)
 
 
 
